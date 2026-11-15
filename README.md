@@ -5,6 +5,7 @@ Privacy policies for SeekPi apps, published with GitHub Pages at https://doodlle
 | App | Privacy policy |
 | --- | --- |
 | Pocket Tracer | https://doodlleus.github.io/seekpi-policies/pocket-tracer/privacy/ |
+| Wander Beat | https://doodlleus.github.io/seekpi-policies/wander-beat/privacy/ |
 
 ## Adding an app
 
