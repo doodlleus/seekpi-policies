@@ -4,6 +4,7 @@ Privacy policies for SeekPi apps, published with GitHub Pages at https://doodlle
 
 | App | Privacy policy |
 | --- | --- |
+| Carvly | https://doodlleus.github.io/seekpi-policies/carvly/privacy/ |
 | Pocket Tracer | https://doodlleus.github.io/seekpi-policies/pocket-tracer/privacy/ |
 | Wander Beat | https://doodlleus.github.io/seekpi-policies/wander-beat/privacy/ |
 
